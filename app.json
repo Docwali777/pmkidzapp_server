@@ -1,0 +1,12 @@
+{
+  "name": "pmkidzapp_1",
+  "displayName": "pmkidzapp_1",
+  "expo": {
+    "name": "pmkidzapp_1",
+    "slug": "pmkidzapp_1",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
